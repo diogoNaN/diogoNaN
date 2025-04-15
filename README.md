@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diogoNaN
-- 🌱 I’m currently focused [ [React Native](https://reactnative.dev), [Typescript](https://www.typescriptlang.org) ]
+- 🌱 I’m currently focused [ [Next.js](https://nextjs.org), [React Native](https://reactnative.dev), with [Typescript](https://www.typescriptlang.org) ]
 - 📫 How to reach me [ [LinkedIn](https://www.linkedin.com/in/diogonan), [GitHub](https://github.com/diogoNaN) ]
 
 <!---
